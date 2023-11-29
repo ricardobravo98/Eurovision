@@ -20,3 +20,7 @@ This is a model I created to predict the Winner of the Eurovision Contest in 201
 07 - Hyperparameter tuning
 
 08 - Summary and Conclusions
+
+Dataset: https://github.com/ricardobravo98/Eurovision/blob/main/Eurovision%20Song%20Contest%202010%20dataset.xls
+
+Script: https://github.com/ricardobravo98/Eurovision/blob/main/20231108_RicardoBravo.ipynb
